@@ -2,7 +2,7 @@
 
 * In *Revue d'Économie du Développement* (2024)
 * By [A. Natal](https://neemsis.hypotheses.org/team/arnaud-natal) and [C.J. Nordman](https://neemsis.hypotheses.org/team/christophe-jalil-nordman)
-* :arrow_right: DOI: [10.3917/edd.362.0095](https://doi.org/10.3917/edd.362.0095)
+* DOI: [10.3917/edd.362.0095](https://doi.org/10.3917/edd.362.0095)
 * Code formats: `.do` (Stata)
 
 ### Contents
