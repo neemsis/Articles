@@ -1,6 +1,6 @@
 # Article code.
 
-:wrench: This file contains the codes used for statistical analyses of articles based on RUME and NEEMSIS data. The files are stored in sub-folders corresponding to the articles.
+:wrench: This folder contains the codes used for statistical analyses of articles based on RUME and NEEMSIS data. The files are stored in sub-folders corresponding to the articles.
 
 ### Contents
 
