@@ -1,4 +1,4 @@
-:newspaper: **Locus de contrôle, identité sociale et endettement en Inde du Sud** (2024)
+:newspaper: **Locus de contrôle, identité sociale et endettement en Inde du Sud** (2022)
 
 * In *Revue d'Économie du Développement, 31*(2), 95--101.
 * By [A. Natal](https://neemsis.hypotheses.org/team/arnaud-natal) and [C.J. Nordman](https://neemsis.hypotheses.org/team/christophe-jalil-nordman).
