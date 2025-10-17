@@ -10,13 +10,13 @@
 
 #### :arrow_down: Contents
 
-* `psychodebt`  is the set of macros for locating files on the computer.
-* `Panel-1_Formation_HH_indiv` to form the household and individual data.
-* `Panel-2_Formation_loan` to form the loan data.
-* `Panel-3_Stat_HH` to analyse household data.
-* `Panel-4_Stat_indiv` to analyse individual data.
-* `Panel-5_Stat_loan` to analyse loan data.
-* `Panel-6_Decisionmaking` to analyse decision making.
+* `stabpsycho`  is the set of macros for locating files on the computer.
+* `Stability-1_Formation` to form individual data.
+* `Stability-2_Creation` to create new variables.
+* `Stability-3_AB_EFA` to analyse the acquiescence bias and do the factor analysis.
+* `Stability-4_Prepa_analysis` to prepare analysis.
+* `Stability-5_Analysis` to analyse the data.
+* `Stability-6_CBPS` to do covariate balance propensity score.
 
 > The files are not always clear. If you have any questions, please contact [Arnaud Natal](https://neemsis.hypotheses.org/team/arnaud-natal).
 
