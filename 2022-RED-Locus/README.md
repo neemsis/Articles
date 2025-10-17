@@ -4,7 +4,7 @@
 
 #### :newspaper: *Revue d'Économie du Développement, 31*(2), 95–101. https://doi.org/10.3917/edd.362.0095
 
-*What are the consequences of the COVID-19 lockdown on household debt? Drawing on quantitative and qualitative data collected in rural Tamil Nadu, this paper highlights the massive risks of financial fragility. Quantitative data show a very high level of pre-COVID-19 debt, and the lockdown was accompanied by a large-scale suspension of repayments. At the same time, there was a halt to unsecured debt and an erosion of the trust that cements most transactions. Last, but not the least, the emergence of new forms of secured debt that seriously threaten household assets was observed.*
+*À partir de données originales sur 1635 individus d’Inde rurale du Sud, nous analysons la corrélation entre l’endettement, le locus de contrôle (LOC) et l’identité sociale (genre et caste) des emprunteurs. Tandis que le LOC est corrélé avec la négociation de la dette, nous observons que c’est pour les hommes non-dalits (castes moyennes et élevées) que la relation est la plus forte. Ce résultat suggère qu’un LOC plus interne est un atout supplémentaire dans la négociation pour les individus ayant une position sociale déjà favorable.*
 
 **Code formats:** `.do` (Stata)
 
