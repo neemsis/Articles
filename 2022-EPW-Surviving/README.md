@@ -8,9 +8,9 @@
 
 **Code formats:** `.do` (Stata)
 
-### Contents
+#### Contents
 
 * `Debt-1_Cleaning` to form the data.
 * `Debt-2_Analysis` to analyse data.
 
-The files are not always clear. If you have any questions, please contact [Arnaud Natal](https://neemsis.hypotheses.org/team/arnaud-natal).
+> The files are not always clear. If you have any questions, please contact [Arnaud Natal](https://neemsis.hypotheses.org/team/arnaud-natal).
