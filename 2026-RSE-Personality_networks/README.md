@@ -1,10 +1,10 @@
-## A Change is Gonna Come: Universality, Stability, and Shocks in Personality Traits in Rural India (forthcming)
+## How Personality Traits Interact with Social Identity in the Formation of Social Networks? A Case Study in South India (forthcoming)
 
-#### :raising_hand: A. Natal, C. J. Nordman.
+#### :raising_hand: A. Natal, D. Girollet.
 
 #### :newspaper: *The Journal of Development Studies*. https://doi.org/10.1080/00220388.2025.2577312
 
-*Taking the case of rural South India, we explore the universality of the Big Five personality traits and their stability over time. We then investigate the effects of two exogenous shocks on trait stability: the demonetisation of November 2016 and the second COVID-19 lockdown. We use an original longitudinal dataset collected in 2016-2017 and 2020-2021. After correcting the data for acquiescence bias and performing factor analysis, we find that three personality traits emerge: emotional stability, plasticity, and conscientiousness. We find no evidence of temporal stability. Results from the covariate-balancing propensity score weighting model shows that the demonetisation impacts plasticity and conscientiousness, with exposed individuals scoring notably higher. The second COVID-19 lockdown exerts a negative impact on emotional stability.*
+* Using original data from rural South India, we examine how personality traits intersect with caste and gender to shape interpersonal network characteristics in a Global South context. We analyse the relationship between four personality traits (emotional stability, plasticity, conscientiousness, and locus of control) and three network outcomes (strength of ties, caste, and gender heterophily) using econometric tools. We document four main findings. Firstly, personality traits significantly shape tie strength, reflecting differences in how individuals balance relational dependence and social autonomy. Secondly, personality is associated with selective social boundary crossing, which may facilitate interaction across caste lines, while remaining constrained by gender norms. Thirdly, personality traits shape network characteristics to a similar extent across networks, suggesting that ties remain governed by stable patterns of social interaction. Fourthly, personality operates as a context-dependent resource, shaping networks primarily among individuals who are structurally able to act, particularly men and middle castes. .*
 
 #### :memo: Code formats: `.do` (Stata)
 
