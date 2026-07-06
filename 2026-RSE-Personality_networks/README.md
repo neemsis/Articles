@@ -10,13 +10,16 @@
 
 #### :arrow_down: Contents
 
-* `stabpsycho`  is the set of macros for locating files on the computer.
-* `Stability-1_Formation` to form individual data.
-* `Stability-2_Creation` to create new variables.
-* `Stability-3_AB_EFA` to analyse the acquiescence bias and do the factor analysis.
-* `Stability-4_Prepa_analysis` to prepare analysis.
-* `Stability-5_Analysis` to analyse the data.
-* `Stability-6_CBPS` to do covariate balance propensity score.
+* `personetwork`  is the set of macros for locating files on the computer.
+* `Personalitynetworks-1_variables` to create variables.
+* `Personalitynetworks-2_varalters` to create alter variables.
+* `Personalitynetworks-3_variablesuite` to add and clean other variables.
+* `Personalitynetworks-4_descanalysis` to analyse data with descriptive statistics.
+* `Personalitynetworks-5_econo_heterophily` to analyse the data (heterophily).
+* `Personalitynetworks-5_econo_strength` to analyse the data (strength of ties).
+* `Personalitynetworks-6_overfit` to analyse the data (overfit).
+* `Personalitynetworks-9_format` to format the results.
+
 
 > The files are not always clear. If you have any questions, please contact [Arnaud Natal](https://neemsis.hypotheses.org/team/arnaud-natal).
 
