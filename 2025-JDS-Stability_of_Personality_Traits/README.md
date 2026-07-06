@@ -1,4 +1,4 @@
-## A Change is Gonna Come: Universality, Stability, and Shocks in Personality Traits in Rural India (forthcming)
+## A Change is Gonna Come: Universality, Stability, and Shocks in Personality Traits in Rural India
 
 #### :raising_hand: A. Natal, C. J. Nordman.
 
