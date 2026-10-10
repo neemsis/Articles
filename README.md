@@ -4,6 +4,8 @@
 
 ### Contents
 
+* [`2026-JDS-Social_proximity_credit`](https://github.com/neemsis/Articles/tree/main/2026-JDS-Social_proximity_credit) "Social Proximity and Loan Terms: Evidence from Informal Credit Markets in Rural India", in *The Journal of Development Studies*.
+* [`2026-RSE-Personality_networks`](https://github.com/neemsis/Articles/tree/main/2026-RSE-Personality_networks) "How personality traits interact with social identity in the formation of social networks? A case study in South India", in *Review of Social Economy*.
 * [`2025-JDS-Stability_of_Personality_Traits`](https://github.com/neemsis/Articles/tree/main/2025-JDS-Stability_of_Personality_Traits) "A Change is Gonna Come: Universality, Stability, and Shocks in Personality Traits in Rural India" in *The Journal of Development Studies*.
 * [`2025-CSA-Financialization_marriage`](https://github.com/neemsis/Articles/tree/main/2025-CSA-Financialization_marriage) "For money can’t buy me love? The political economy of marriages at the time of financialization" in *Contemporary South Asia*.
 * [`2025-JDS-Psychology_of_Debt`](https://github.com/neemsis/Articles/tree/main/2025-JDS-Psychology_of_Debt) "Psychology of Debt in Rural South India" in *The Journal of Development Studies*.
